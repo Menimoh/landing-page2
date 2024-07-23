@@ -1,0 +1,95 @@
+.container {
+  width: 0px 5px;
+}
+nav ul li {
+  display: inline-block;
+  padding: 0px 5px;
+}
+.visit {
+  margin-inline-end: auto;
+  float: right;
+}
+div.option1 {
+  background-image: url(39.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  min-width: 300px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  min-height: 300px;
+}
+div button {
+  float: center;
+  color: blue;
+  font-size: 20px;
+}
+div p {
+  text-align: center;
+  bottom: 400px;
+  font-size: 60px;
+  gap: 30px;
+  height: 150px;
+}
+
+.side-image {
+  width: 412px;
+}
+
+div.option2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+div.option2 div:first-child {
+  width: 514px;
+}
+
+div.option2 div:last-child {
+  position: relative;
+  flex-grow: 1;
+}
+
+div.option2 div:last-child img:last-child {
+  position: absolute;
+  top: 50px;
+  left: 270px;
+}
+div.option3{
+    background-color: lightblue;
+    background-repeat: repeat;
+
+
+}
+
+div h2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 72px;
+    text-align: center;
+   
+
+
+}
+div.image-ajustment{
+    float: left;
+    width: 30.35%;
+    padding: 7px;
+    
+   
+
+
+    
+    
+
+
+}
+
+    
+    
+    
+
+}
